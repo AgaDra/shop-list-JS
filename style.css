@@ -1,0 +1,27 @@
+.shopApp {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  background-color: darkgreen;
+}
+
+.btnGreen {
+  font-size: 30px;
+  color: darkgreen;
+  background-color: greenyellow;
+}
+
+.btnYellow {
+  background-color: yellow;
+}
+
+.listOfProd {
+  width: 92%;
+  display: flex;
+  flex-direction: column;
+  font-size: 25px;
+  color: darkblue;
+  padding: 5px 10px;
+  border: 4px solid greenyellow;
+  background-color: white;
+}
